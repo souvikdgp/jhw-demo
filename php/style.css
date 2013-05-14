@@ -487,6 +487,9 @@ li a.vimeo {
 li a.dropbox {
 	background:url(images/social/dropbox.png) no-repeat scroll center center;
 }
+li a.gplus {
+	background:url(images/social/google-plus-4-24.png) no-repeat scroll center center;
+}
 
 
 /*-----------------------------------------------------------------------------------*/
